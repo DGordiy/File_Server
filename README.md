@@ -1,4 +1,4 @@
-# File_Server
+# File_Server_TrainingProject
 
 It is an example of simple file server architecture using Web sockets.
 
